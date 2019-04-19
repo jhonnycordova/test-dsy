@@ -14,5 +14,5 @@ Project test. It finds data from an API provided and show the results by display
 
 ## Instalation
 
-After cloning the project, it'll be necesary to execute: **composer install**
+After cloning the project, it'll be necesary to execute: **composer install** to install of dependences
 
